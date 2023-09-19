@@ -166,6 +166,5 @@ int main(int argc, const char * argv[]) {
     cout << "짝수";
     else
     cout << "홀수";
-
     
 }
